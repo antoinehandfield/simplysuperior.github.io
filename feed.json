@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Simply Superior Contracting",
+    "description": "",
+    "home_page_url": "https://antoinehandfield.github.io/simplysuperior.github.io",
+    "feed_url": "https://antoinehandfield.github.io/simplysuperior.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://antoinehandfield.github.io/simplysuperior.github.io/media/website/logo.png",
+    "author": {
+        "name": "Antoine"
+    },
+    "items": [
+    ]
+}

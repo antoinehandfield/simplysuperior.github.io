@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://antoinehandfield.github.io/simplysuperior.github.io/sitemap.xml
