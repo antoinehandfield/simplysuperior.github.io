@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Simply Superior Contracting</title>
-    <link href="https://antoinehandfield.github.io/simplysuperior.github.io/feed.xml" rel="self" />
-    <link href="https://antoinehandfield.github.io/simplysuperior.github.io" />
+    <link href="https://simplysuperior.ca/feed.xml" rel="self" />
+    <link href="https://simplysuperior.ca" />
     <updated>1969-12-31T19:00:00-05:00</updated>
     <author>
         <name>Antoine</name>
     </author>
-    <id>https://antoinehandfield.github.io/simplysuperior.github.io</id>
+    <id>https://simplysuperior.ca</id>
 
 </feed>
